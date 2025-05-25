@@ -31,7 +31,7 @@
 
 - 📚 Amo **ler livros** — especialmente os que mexem com a imaginação!
   
-- 🎨 Também me dedico ao desenho e à pintura, que estimulam minha criatividade e atenção aos detalhes.
+- 🎨 Também me dedico ao **desenho** e à **pintura**, que estimulam minha criatividade e atenção aos detalhes.
   
 - 🌱 Estou aberta a novas experiências, projetos e aprendizados que me ajudem a crescer pessoal e profissionalmente! 
 <br>
