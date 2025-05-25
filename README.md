@@ -40,6 +40,5 @@
 - <strong>📫 Contato:</strong></li>
 <br>
 
-
-[![Instagram](https://img.shields.io/badge/@liszjas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/liszjas?igsh=MWNnNG1nNjEwYzFyNw==)
 [![Email](https://img.shields.io/badge/elisjasper-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elis_jasper@estudante.sesisenai.org.br)
+[![Instagram](https://img.shields.io/badge/@liszjas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/liszjas?igsh=MWNnNG1nNjEwYzFyNw==)
