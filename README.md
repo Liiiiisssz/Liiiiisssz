@@ -37,7 +37,7 @@
 <br>
 <br>
 
-- <strong>📫 Contato:</strong></li>
+## 📫 Contato:
 <br>
 
 [![Email](https://img.shields.io/badge/elisjasper-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elis_jasper@estudante.sesisenai.org.br)
