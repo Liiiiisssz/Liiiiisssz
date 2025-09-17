@@ -1,10 +1,12 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Elis!;" alt="Typing SVG" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=d9d7ce&center=false&vCenter=false&width=600&lines=Olá%2C+eu+sou+a+Elis!;" alt="Typing SVG" />
+</p>
 
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liiiiisssz&layout=compact&theme=bear&hide_border=true"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liiiiisssz&theme=bear" alt="stats graph"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liiiiisssz&layout=compact&theme=city_lights&hide_border=true"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liiiiisssz&theme=city_lights" alt="stats graph"/>
 </p>
 
 
