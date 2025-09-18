@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=d9d7ce&center=false&vCenter=false&width=600&lines=Olá%2C+eu+sou+a+Elis!;" alt="Typing SVG" />
-</p>
+<table align="center" style="border:0;">
+  <tr>
+    <td style="border:0;">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=0088ff&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Elis!;" alt="Typing SVG" />
+    </td>
+    <td style="border:0;">
+      <img src="lapras.gif" alt="Lapras GIF" width="40%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
