@@ -1,10 +1,10 @@
-<table align="center" style="border:0;">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border:0;">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=0088ff&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Elis!;" alt="Typing SVG" />
+    <td>
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=10&color=0088ff&center=true&vCenter=true&width=350&lines=Olá%2C+eu+sou+a+Elis!;" alt="Typing SVG" />
     </td>
-    <td style="border:0;">
-      <img src="lapras.gif" alt="Lapras GIF" width="40%" />
+    <td>
+      <img src="lapras.gif" alt="Lapras GIF" width="350"/>
     </td>
   </tr>
 </table>
@@ -27,12 +27,8 @@
 
 ## Formação acadêmica:
 
-- 👩‍🎓 Atualmente, sou estudante de <strong>Desenvolvimento de Sistemas</strong> pelo CentroWEG. Também estou cursando o Ensino Médio, conciliando minha
-   formação técnica com os estudos regulares.
-  
-- 💻 Aprendendo **Java**, **HTML** e **CSS**.
-  
-- 🌱 Estou aberta a novas experiências, projetos e aprendizados que me ajudem a crescer pessoal e profissionalmente! 
+- Cursando **Analise e Desenvolvimento de Sistemas** pelo **CentroWEG**!
+- Duração: 2 anos.
 <br>
 <br>
 
