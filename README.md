@@ -35,10 +35,9 @@
 <h2 align="center">🎓 Formação acadêmica</h2>
 <br>
 <p align="center">
-  <ul style="list-style-type:none; padding:0; margin:0; align:center;">
-    <li>Cursando <b>Análise e Desenvolvimento de Sistemas</b> pelo <b>CentroWEG</b></li>
-    <li>Duração: 2 anos</li>
-  </ul>
+  Cursando <b>Análise e Desenvolvimento de Sistemas</b> pelo <b>CentroWEG</b>
+  <br>
+  Duração: 2 anos
 </p>
 <br>
 
