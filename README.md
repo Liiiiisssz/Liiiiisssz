@@ -26,7 +26,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,arduino,mysql,maven,spring,git,docker,figma,tailwind,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,html,css,js,arduino,mysql,maven,spring,git,docker,figma,tailwind&theme=dark" />
 </p>
 <br>
 
